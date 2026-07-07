@@ -10,14 +10,14 @@
 
 ---
 
-## 🚀 About Me
+##  About Me
 
 I move fast from **problem → prototype → working product**. My background is in engineering (M.Eng, Automotive), but my energy right now goes into applied Generative AI — specifically systems that need to be **explainable, safe, and production-real**, not just demo-ready.
 
-- 🔭 Currently building **agentic and RAG systems** that solve real business problems — staffing decisions, safety-regulation Q&A, and more
-- 🧠 Deep interest in **explainable & deterministic AI** — I like knowing *why* a system said what it said
-- 🛠️ I default to shipping an **MVP first**, then iterating with evals, guardrails, and observability
-- 📈 Every project comes with tests, metrics, and a "does this actually work" mindset — not just a notebook
+-  Currently building **agentic and RAG systems** that solve real business problems — staffing decisions, safety-regulation Q&A, and more
+-  Deep interest in **explainable & deterministic AI** — I like knowing *why* a system said what it said
+-  I default to shipping an **MVP first**, then iterating with evals, guardrails, and observability
+-  Every project comes with tests, metrics, and a "does this actually work" mindset — not just a notebook
 - 🌱 Still learning, always — mostly by building things end-to-end and breaking them on purpose
 - 🌍 Based in Ingolstadt, Germany · Open to relocation
 
