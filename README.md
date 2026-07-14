@@ -86,7 +86,13 @@ Answers UN vehicle-safety regulation questions with cited sources. [Live demo �
 
 </div>
 
-> Note: these stat cards rely on third-party hosted services (Vercel/Heroku) that occasionally rate-limit or go down. If images still don't render after this fix, self-host your own instance of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own) to avoid shared rate limits.
+> ⚠️ **Known issue, not a markdown bug:** the public `github-readme-stats.vercel.app` instance is shared by thousands of profiles and frequently hits GitHub API rate limits, returning broken/blank images regardless of URL parameters (see [anuraghazra/github-readme-stats#4666](https://github.com/anuraghazra/github-readme-stats/issues/4666)). No param change fixes this — it's server-side.
+>
+> **Real fixes:**
+> - **Self-host** your own free instance on Vercel using your own GitHub token (removes the shared rate limit) — [deployment guide](https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own).
+> - Or generate a **static SVG via GitHub Actions** committed to your repo, so the card has no live external dependency at all.
+>
+> Until one of those is set up, expect these two cards to intermittently fail to render.
 
 ---
 
