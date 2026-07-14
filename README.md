@@ -8,7 +8,7 @@
 
 </div>
 
----
+<br/>
 
 ## 🙋 About Me
 
@@ -16,19 +16,20 @@ I move fast from **problem → prototype → working product**. My background is
 
 - 🚀 Currently building **agentic and RAG systems** that solve real business problems — staffing decisions, safety-regulation Q&A, and more
 - 🔍 Deep interest in **explainable & deterministic AI** — I like knowing *why* a system said what it said
-- 🛠️ I default to shipping an **MVP first**, then iterating with evals, guardrails, and observability
-- ✅ Every project comes with tests, metrics, and a "does this actually work" mindset — not just a notebook
+- 🛠️ Default to shipping an **MVP first**, then iterating with evals, guardrails, and observability
+- ✅ Every project ships with tests and metrics — not just a notebook
 - 🌱 Still learning, always — mostly by building things end-to-end and breaking them on purpose
 - 🌍 Based in Ingolstadt, Germany · Open to relocation
 
-**🎯 Looking for:** AI/ML Engineer roles (GenAI, RAG, Agentic Systems) · Open to relocation across the EU · Available for full-time or contract work
+**🎯 Looking for:** AI/ML Engineer roles (GenAI · RAG · Agentic Systems) · Open to relocation across the EU · Available full-time or contract
 
----
+<br/>
 
-## 🛠️ Current Projects
+## 🛠️ Featured Projects
 
 ### 🤖 [AI Staffing Copilot](https://github.com/Sharan099/staffing-copilot)
 Agentic decision-support tool for engineering managers — turns a plain-English request into a ranked, auditable candidate shortlist.
+
 - Deterministic scoring in SQL (not a black box) — LLM only handles extraction & summaries
 - PII stripped before any LLM call, full audit log, GDPR erasure endpoint
 - 65 automated tests + an offline eval harness (accuracy, grounding, hallucination, ranking quality)
@@ -37,25 +38,24 @@ Agentic decision-support tool for engineering managers — turns a plain-English
 
 ### 🚦 [PSA AI — Hybrid RAG for Automotive Safety Regulations](https://github.com/Sharan099/safety-assistant)
 Answers UN vehicle-safety regulation questions with cited sources. [Live demo →](https://safety-assistant-tan.vercel.app/)
+
 - Hybrid retrieval (dense + BM25 + reranker) lifted context recall **32%** over semantic-only baseline
 - 0.80 faithfulness, 0.73 context recall on a 20-question RAGAS eval set
 - Prompt-injection guardrails + LangSmith tracing + Prometheus/Grafana cost & latency dashboards
 
 `LangGraph` `Groq Llama-3.3-70B` `RAGAS` `LangSmith` `FastAPI`
 
-> 📌 Tip: pin these two (plus 1-2 more) directly on your GitHub profile via **Customize your pins** — pinned repos are often the first thing a visitor clicks, separate from this README.
+> 📌 Both repos are pinned on my profile — see them front and center above, or browse all repos below.
 
----
-
+<!-- TODO: Add a "Latest Writing" section here once you have verified Medium post links.
+Format:
 ## ✍️ Latest Writing
+- [Real Post Title](https://medium.com/@yourhandle/real-post-slug)
+-->
 
-- [Post title 1 — add your latest Medium post here](https://medium.com/@sairavi1999)
-- [Post title 2 — add your second post here](https://medium.com/@sairavi1999)
-- [Post title 3 — add your third post here](https://medium.com/@sairavi1999)
+<br/>
 
----
-
-## 🔗 Find Me / My Work
+## 🔗 Links
 
 <div align="center">
 
@@ -66,7 +66,7 @@ Answers UN vehicle-safety regulation questions with cited sources. [Live demo �
 
 </div>
 
----
+<br/>
 
 ## 🧰 Tech Stack
 
@@ -76,12 +76,14 @@ Answers UN vehicle-safety regulation questions with cited sources. [Live demo �
 
 </div>
 
-**Core:** Python · RAG · Agentic Systems · LangChain · LangGraph · Hybrid Search (BM25 + Semantic + RRF) · FastAPI · Docker
-**ML/LLM:** PyTorch · Hugging Face · Transformers · RAGAS · LangSmith · FAISS · ChromaDB · GraphRAG · Neo4j
-**Platforms:** OpenAI · Anthropic · Groq · Prometheus · Grafana · Vercel · Railway
-**Eval & Safety:** Agent evaluation (NDCG/MRR) · Hallucination & grounding checks · PII redaction · GDPR-aware design · Guardrails
+| Category | Skills |
+|---|---|
+| **Core** | Python · RAG · Agentic Systems · LangChain · LangGraph · Hybrid Search (BM25 + Semantic + RRF) · FastAPI · Docker |
+| **ML / LLM** | PyTorch · Hugging Face · Transformers · RAGAS · LangSmith · FAISS · ChromaDB · GraphRAG · Neo4j |
+| **Platforms** | OpenAI · Anthropic · Groq · Prometheus · Grafana · Vercel · Railway |
+| **Eval & Safety** | Agent evaluation (NDCG/MRR) · Hallucination & grounding checks · PII redaction · GDPR-aware design · Guardrails |
 
----
+<br/>
 
 ## 📊 GitHub Stats
 
@@ -92,7 +94,9 @@ Answers UN vehicle-safety regulation questions with cited sources. [Live demo �
 
 </div>
 
-> These cards depend on a shared public service that can rate-limit intermittently. For a reliable, permanent fix, self-host your own instance — [guide here](https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own).
+<sub>Stats cards use a shared public service that can occasionally rate-limit. For guaranteed uptime, self-host your own instance — [guide](https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own).</sub>
+
+<br/>
 
 ---
 
