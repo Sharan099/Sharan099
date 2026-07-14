@@ -10,14 +10,14 @@
 
 ---
 
-##  About Me
+## 🙋 About Me
 
 I move fast from **problem → prototype → working product**. My background is in engineering (M.Eng, Automotive), but my energy right now goes into applied Generative AI — specifically systems that need to be **explainable, safe, and production-real**, not just demo-ready.
 
--  Currently building **agentic and RAG systems** that solve real business problems — staffing decisions, safety-regulation Q&A, and more
--  Deep interest in **explainable & deterministic AI** — I like knowing *why* a system said what it said
--  I default to shipping an **MVP first**, then iterating with evals, guardrails, and observability
--  Every project comes with tests, metrics, and a "does this actually work" mindset — not just a notebook
+- 🚀 Currently building **agentic and RAG systems** that solve real business problems — staffing decisions, safety-regulation Q&A, and more
+- 🔍 Deep interest in **explainable & deterministic AI** — I like knowing *why* a system said what it said
+- 🛠️ I default to shipping an **MVP first**, then iterating with evals, guardrails, and observability
+- ✅ Every project comes with tests, metrics, and a "does this actually work" mindset — not just a notebook
 - 🌱 Still learning, always — mostly by building things end-to-end and breaking them on purpose
 - 🌍 Based in Ingolstadt, Germany · Open to relocation
 
@@ -34,13 +34,15 @@ I move fast from **problem → prototype → working product**. My background is
 
 </div>
 
+> Note: verify the Portfolio link resolves — badge icon was updated to a neutral globe icon since the site is hosted on Lovable, not Vercel.
+
 ---
 
 ## 🧰 Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=py,pytorch,fastapi,docker,git,github,linux,vscode,postgres,sqlite,redis,bash,grafana,githubactions" />
+<img src="https://skillicons.dev/icons?i=py,pytorch,fastapi,docker,git,github,linux,vscode,postgres,sqlite,redis,bash,grafana,githubactions" alt="Tech stack icons: Python, PyTorch, FastAPI, Docker, Git, GitHub, Linux, VS Code, PostgreSQL, SQLite, Redis, Bash, Grafana, GitHub Actions" />
 
 </div>
 
@@ -75,14 +77,16 @@ Answers UN vehicle-safety regulation questions with cited sources. [Live demo �
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Sharan099&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sharan099&layout=compact&theme=tokyonight&hide_border=true" width="38%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Sharan099&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Sai Sharan's GitHub stats" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sharan099&layout=compact&theme=tokyonight&hide_border=true" alt="Sai Sharan's most used languages" width="38%" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sharan099&theme=tokyonight&hide_border=true" width="60%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sharan099&theme=tokyonight&hide_border=true" alt="Sai Sharan's GitHub contribution streak" width="60%" />
 
 </div>
+
+> Note: these stat cards rely on third-party hosted services (Vercel/Heroku) that occasionally rate-limit or go down. If images don't render, refresh the page — it's not a broken link.
 
 ---
 
@@ -90,7 +94,7 @@ Answers UN vehicle-safety regulation questions with cited sources. [Live demo �
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sharan099&theme=react-dark&hide_border=true" width="90%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sharan099&theme=react-dark&hide_border=true" alt="Sai Sharan's GitHub contribution activity graph" width="90%" />
 
 </div>
 
