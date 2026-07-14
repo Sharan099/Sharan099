@@ -89,12 +89,11 @@ Format:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Sharan099&show_icons=true&theme=tokyonight&hide_border=true" alt="Sai Sharan's GitHub stats" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sharan099&theme=tokyonight&hide_border=true" alt="Sai Sharan's GitHub contribution streak" width="38%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sharan099&theme=tokyonight&hide_border=true" alt="Sai Sharan's GitHub contribution streak" width="60%" />
 
 </div>
 
-<sub>Stats cards use a shared public service that can occasionally rate-limit. For guaranteed uptime, self-host your own instance — [guide](https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own).</sub>
+<sub>The separate "Stats" card is temporarily removed — the shared public service backing it is currently rate-limited and was rendering as a broken image. Re-add it once you've <a href="https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own">self-hosted your own instance</a> (10-min one-time setup, permanently fixes this).</sub>
 
 <br/>
 
