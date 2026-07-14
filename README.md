@@ -21,35 +21,7 @@ I move fast from **problem → prototype → working product**. My background is
 - 🌱 Still learning, always — mostly by building things end-to-end and breaking them on purpose
 - 🌍 Based in Ingolstadt, Germany · Open to relocation
 
----
-
-## 🔗 Find Me / My Work
-
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=vercel&logoColor=white)](https://sai-sharan-ml-folio.lovable.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sai-sharan-ravichandran)
-[![Medium](https://img.shields.io/badge/Blog-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@sairavi1999)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sharanravichandran99@gmail.com)
-
-</div>
-
-> Note: verify the Portfolio link resolves — badge icon was updated to a neutral globe icon since the site is hosted on Lovable, not Vercel.
-
----
-
-## 🧰 Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=py,pytorch,fastapi,docker,git,github,linux,vscode,postgres,sqlite,redis,bash,grafana,githubactions" alt="Tech stack icons: Python, PyTorch, FastAPI, Docker, Git, GitHub, Linux, VS Code, PostgreSQL, SQLite, Redis, Bash, Grafana, GitHub Actions" />
-
-</div>
-
-**Core:** Python · RAG · Agentic Systems · LangChain · LangGraph · Hybrid Search (BM25 + Semantic + RRF) · FastAPI · Docker
-**ML/LLM:** PyTorch · Hugging Face · Transformers · RAGAS · LangSmith · FAISS · ChromaDB · GraphRAG · Neo4j
-**Platforms:** OpenAI · Anthropic · Groq · Prometheus · Grafana · Vercel · Railway
-**Eval & Safety:** Agent evaluation (NDCG/MRR) · Hallucination & grounding checks · PII redaction · GDPR-aware design · Guardrails
+**🎯 Looking for:** AI/ML Engineer roles (GenAI, RAG, Agentic Systems) · Open to relocation across the EU · Available for full-time or contract work
 
 ---
 
@@ -71,6 +43,44 @@ Answers UN vehicle-safety regulation questions with cited sources. [Live demo �
 
 `LangGraph` `Groq Llama-3.3-70B` `RAGAS` `LangSmith` `FastAPI`
 
+> 📌 Tip: pin these two (plus 1-2 more) directly on your GitHub profile via **Customize your pins** — pinned repos are often the first thing a visitor clicks, separate from this README.
+
+---
+
+## ✍️ Latest Writing
+
+- [Post title 1 — add your latest Medium post here](https://medium.com/@sairavi1999)
+- [Post title 2 — add your second post here](https://medium.com/@sairavi1999)
+- [Post title 3 — add your third post here](https://medium.com/@sairavi1999)
+
+---
+
+## 🔗 Find Me / My Work
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://sai-sharan-ml-folio.lovable.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sai-sharan-ravichandran)
+[![Medium](https://img.shields.io/badge/Blog-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@sairavi1999)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sharanravichandran99@gmail.com)
+
+</div>
+
+---
+
+## 🧰 Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=py,pytorch,fastapi,docker,git,github,linux,vscode,postgres,sqlite,redis,bash,grafana,githubactions" alt="Tech stack icons: Python, PyTorch, FastAPI, Docker, Git, GitHub, Linux, VS Code, PostgreSQL, SQLite, Redis, Bash, Grafana, GitHub Actions" />
+
+</div>
+
+**Core:** Python · RAG · Agentic Systems · LangChain · LangGraph · Hybrid Search (BM25 + Semantic + RRF) · FastAPI · Docker
+**ML/LLM:** PyTorch · Hugging Face · Transformers · RAGAS · LangSmith · FAISS · ChromaDB · GraphRAG · Neo4j
+**Platforms:** OpenAI · Anthropic · Groq · Prometheus · Grafana · Vercel · Railway
+**Eval & Safety:** Agent evaluation (NDCG/MRR) · Hallucination & grounding checks · PII redaction · GDPR-aware design · Guardrails
+
 ---
 
 ## 📊 GitHub Stats
@@ -78,31 +88,11 @@ Answers UN vehicle-safety regulation questions with cited sources. [Live demo �
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=Sharan099&show_icons=true&theme=tokyonight&hide_border=true" alt="Sai Sharan's GitHub stats" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sharan099&layout=compact&theme=tokyonight&hide_border=true" alt="Sai Sharan's most used languages" width="38%" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sharan099&theme=tokyonight&hide_border=true" alt="Sai Sharan's GitHub contribution streak" width="60%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sharan099&theme=tokyonight&hide_border=true" alt="Sai Sharan's GitHub contribution streak" width="38%" />
 
 </div>
 
-> ⚠️ **Known issue, not a markdown bug:** the public `github-readme-stats.vercel.app` instance is shared by thousands of profiles and frequently hits GitHub API rate limits, returning broken/blank images regardless of URL parameters (see [anuraghazra/github-readme-stats#4666](https://github.com/anuraghazra/github-readme-stats/issues/4666)). No param change fixes this — it's server-side.
->
-> **Real fixes:**
-> - **Self-host** your own free instance on Vercel using your own GitHub token (removes the shared rate limit) — [deployment guide](https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own).
-> - Or generate a **static SVG via GitHub Actions** committed to your repo, so the card has no live external dependency at all.
->
-> Until one of those is set up, expect these two cards to intermittently fail to render.
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sharan099&theme=react-dark&hide_border=true" alt="Sai Sharan's GitHub contribution activity graph" width="90%" />
-
-</div>
+> These cards depend on a shared public service that can rate-limit intermittently. For a reliable, permanent fix, self-host your own instance — [guide here](https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own).
 
 ---
 
