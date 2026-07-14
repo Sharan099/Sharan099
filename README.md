@@ -77,7 +77,7 @@ Answers UN vehicle-safety regulation questions with cited sources. [Live demo â†
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Sharan099&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Sai Sharan's GitHub stats" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Sharan099&show_icons=true&theme=tokyonight&hide_border=true" alt="Sai Sharan's GitHub stats" width="48%" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sharan099&layout=compact&theme=tokyonight&hide_border=true" alt="Sai Sharan's most used languages" width="38%" />
 
 <br/>
@@ -86,7 +86,7 @@ Answers UN vehicle-safety regulation questions with cited sources. [Live demo â†
 
 </div>
 
-> Note: these stat cards rely on third-party hosted services (Vercel/Heroku) that occasionally rate-limit or go down. If images don't render, refresh the page â€” it's not a broken link.
+> Note: these stat cards rely on third-party hosted services (Vercel/Heroku) that occasionally rate-limit or go down. If images still don't render after this fix, self-host your own instance of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own) to avoid shared rate limits.
 
 ---
 
